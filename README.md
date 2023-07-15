@@ -1,3 +1,5 @@
+This is a professional development project, with this git repo serving as a place to capture and review my work between work and personal computers.
+
 # Writing An Interpreter In Go
 
 Thank you for purchasing "Writing An Interpreter In Go"! In this folder you'll
